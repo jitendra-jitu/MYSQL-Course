@@ -1,0 +1,1 @@
+SELECT * FROM student_info WHERE NAME  BETWEEN "A" AND "P";
